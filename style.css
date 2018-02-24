@@ -1,0 +1,134 @@
+.centrar {
+	background-image: url("http://www.beautiful-views.net/views/banff-canada-mountains-river-forest.jpg");
+	width: 1920px;
+	height: 1080px;
+	}
+
+.element{
+	border: 1px;
+	opacity: 0.7;
+	background-color: 	#191970;
+	padding: 1px;
+	color: #FFFFFF;
+	position: absolute;
+	right: 15px;
+	bottom: 15px;
+	text-align: center;
+	font-size: 30px;
+}
+
+.element>button{
+	display: block;
+	margin: auto;
+}
+
+button{
+	display: block;
+	margin: auto;
+}
+
+#seccion1>h2{
+	color: green;
+	text-align: left;
+	}
+
+#textoseccion1{
+	text-align: left;
+}
+
+.casa{
+	width: 300px; 
+	height: 450px;
+	top: 1200px;
+	left: 20px;
+	display: block;
+	margin: auto;
+	}
+
+#seccion2>h1{
+	text-align: right;
+	}
+
+#seccion2>h2{
+	color:red;
+	text-align: right;
+	}
+#textoseccion2{
+	text-align: right;
+}
+
+.kayak{
+	width: 450px; 
+	height: 300px;
+	top: 1200px;
+	left: 20px;
+	display: block;
+	margin: auto;
+	}
+
+
+#tituloseccion3{
+	color: #00008B;
+	text-align: center;
+}
+
+.row{
+	padding: 5px;
+}
+
+
+h1{
+	text-align: left;
+	color: black;
+	font-size: 50px;
+	font-family: 'Archivo Black', sans-serif;
+}
+
+h2{
+	font-size: 33.33px;
+	font-family: 'Roboto', sans-serif;
+}
+
+p{
+	font-family: 'Muli', sans-serif;
+}
+
+
+body{
+	text-align: center;
+}
+
+#borde{
+	font-size: 20px;
+	border-left: 0.5px solid black;
+	border-right: 0.5px solid black;
+}
+
+#tablabasica{
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	background-color: #00BFFF;
+	padding: 10px;
+}
+
+#tablapremium{
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	background-color: #98FB98;
+	padding: 10px;
+}
+
+.bloquefooter{
+	display: inline-block;
+	padding: 20px;
+}
+
+
+footer{
+	background-color: #6495ED;	
+	padding: 20px;
+	margin: 0px 0px 0px 40px;
+	text-align: center;	
+}
